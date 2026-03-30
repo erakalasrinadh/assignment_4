@@ -12,8 +12,10 @@ Takes user input and writes to output.txt
 Appends additional input
 Displays final file content
 # Output:
-Enter some text to write into the file: Hello
-Enter additional text to append: World
+Hello Srinadh
+Enter additional text to append: Welcome
+
 Final content of the file:
-Hello
-World
+
+Hello Srinadh
+Welcome
